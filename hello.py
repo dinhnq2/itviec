@@ -11,5 +11,9 @@ def divide ( a, b):
         return None
     else:
         return a/b        
+
+def multi( a,b ):
+    return a*b
+
 #test sum
 print ("10+5=" , sum( 10,5))
